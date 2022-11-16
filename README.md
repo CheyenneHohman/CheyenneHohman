@@ -6,4 +6,4 @@
 - 💬 Ask me about my cat!
 - 😄 Pronouns: she/her, they/them
 - ❤️ I care about the environment, human rights, and universal access to information
-- ⚡ Fun fact: I've visited 10 countries (11 if you count the Vatican as its own country, which they do). 
+- ⚡ Fun fact: I've visited 10 countries (11 if you count the Vatican as its own country!). 
