@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on building skills for the tech space, specifically front-end web dev work. 
-- 🌱 I’m currently learning JavaScript, Python, CSS & HTML.
+- 🔭 I’m learning about front-end web dev. 
+- 🌱 Learning JavaScript, Python, CSS & HTML.
 - 👯 I’m looking to collaborate on music-related tools, ways to connect people to info, and other projects
 - 💬 Ask me about my cat!
 - 😄 Pronouns: she/her, they/them
